@@ -1,6 +1,6 @@
 {
   "name": "rest-me-spotify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Spotify client for rest-me",
   "homepage": "https://github.com/passkey1510/rest-me-spotify",
   "repository": "passkey1510/rest-me-spotify",
@@ -30,9 +30,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lodash": "^3.10.1",
-    "q": "^1.4.1",
     "rest": "^1.3.1",
-    "rest-me": "*"
+    "rest-me": "^0.0.3"
   }
 }
